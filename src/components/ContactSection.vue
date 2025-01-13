@@ -18,7 +18,7 @@
                         </div>
                         <div class="ml-5 text-white">
                             <h4>Email</h4>
-                            <p>xxxxxxx@gmail.com</p>
+                            <p>johnmurillo758@gmail.com</p>
                         </div>
                     </div>
                     <div class="flex mb-10 items-center">
@@ -29,7 +29,7 @@
                         </div>
                         <div class="ml-5 text-white">
                             <h4>Phone</h4>
-                            <p>+xxxxxxxxxx</p>
+                            <p>+639854586073</p>
                         </div>
                     </div>
                     <div class="flex mb-10 items-center">
@@ -41,7 +41,7 @@
                         </div>
                         <div class="ml-5 text-white">
                             <h4>LinkedIn</h4>
-                            <p>wwww.LinkedIn.com</p>
+                            <p>https://www.linkedin.com/in/john-murillo-260756256/</p>
                         </div>
                     </div>
                 </div>
