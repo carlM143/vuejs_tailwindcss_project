@@ -55,31 +55,31 @@ const testimonials=ref([
     {
         id:1,
         fullName:'client 1',
-        image:'src/assets/image.png',
+        image:'@/src/assets/image.png',
         comment:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam minima reprehenderit maiores itaque molestiae optio, voluptatibus iusto eos doloremque consectetur!'
     },
     {
         id:2,
         fullName:'client 2',
-        image:'src/assets/image.png',
+        image:'@/src/assets/image.png',
         comment:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam minima reprehenderit maiores itaque molestiae optio, voluptatibus iusto eos doloremque consectetur!'
     },
     {
         id:3,
         fullName:'client 3',
-        image:'src/assets/image.png',
+        image:'@/src/assets/image.png',
         comment:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam minima reprehenderit maiores itaque molestiae optio, voluptatibus iusto eos doloremque consectetur!'
     },
     {
         id:4,
         fullName:'client 4',
-        image:'src/assets/image.png',
+        image:'@/src/assets/image.png',
         comment:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam minima reprehenderit maiores itaque molestiae optio, voluptatibus iusto eos doloremque consectetur!'
     },
     {
         id:5,
         fullName:'client 5',
-        image:'src/assets/image.png',
+        image:'@/src/assets/image.png',
         comment:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam minima reprehenderit maiores itaque molestiae optio, voluptatibus iusto eos doloremque consectetur!'
     },
 ])
